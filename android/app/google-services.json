@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889282922840",
+    "project_id": "skill-67e15",
+    "storage_bucket": "skill-67e15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889282922840:android:aebd38aaee28a51a763d2d",
+        "android_client_info": {
+          "package_name": "com.skill"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ_3-JYHR0vo6H-NvciCYcT_qSNLHa8eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
